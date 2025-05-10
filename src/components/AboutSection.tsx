@@ -3,10 +3,10 @@ import React from 'react';
 
 const AboutSection = () => {
   return (
-    <section id="about" className="bg-conecta-brown/5 py-24">
+    <section id="about" className="bg-gray-50 py-24">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
-          <h2 className="section-title text-conecta-brown text-center">Sobre o Projeto</h2>
+          <h2 className="section-title text-conecta-blue text-center">Sobre o Projeto</h2>
           <div className="bg-white p-8 rounded-lg shadow-lg">
             <p className="text-xl text-gray-600 text-center mb-12">
               Criado por alunos do IDP durante o Hackathon 2025.
@@ -27,22 +27,22 @@ const AboutSection = () => {
               <div className="md:w-1/2">
                 <div className="grid grid-cols-2 gap-4">
                   <div className="bg-gray-50 p-4 rounded-lg">
-                    <div className="text-4xl font-bold text-conecta-brown mb-2">150+</div>
+                    <div className="text-4xl font-bold text-conecta-blue mb-2">150+</div>
                     <div className="text-gray-600">Vagas analisadas</div>
                   </div>
                   
                   <div className="bg-gray-50 p-4 rounded-lg">
-                    <div className="text-4xl font-bold text-conecta-brown mb-2">96%</div>
+                    <div className="text-4xl font-bold text-conecta-blue mb-2">96%</div>
                     <div className="text-gray-600">Taxa de precisão</div>
                   </div>
                   
                   <div className="bg-gray-50 p-4 rounded-lg">
-                    <div className="text-4xl font-bold text-conecta-brown mb-2">78%</div>
+                    <div className="text-4xl font-bold text-conecta-blue mb-2">78%</div>
                     <div className="text-gray-600">Aumento de matches</div>
                   </div>
                   
                   <div className="bg-gray-50 p-4 rounded-lg">
-                    <div className="text-4xl font-bold text-conecta-brown mb-2">25+</div>
+                    <div className="text-4xl font-bold text-conecta-blue mb-2">25+</div>
                     <div className="text-gray-600">Empresas parceiras</div>
                   </div>
                 </div>
